@@ -1,2 +1,1 @@
-# live2d
-daima
+转自https://github.com/stevenjoezhang/live2d-widget
